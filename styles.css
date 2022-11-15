@@ -1,0 +1,20 @@
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.buttonrefresh {
+    width: 15%;
+    height: 30px;
+    position: fixed;
+    bottom: 3%;
+    right: 1%;
+    left: 89%;
+    transform: rotate(-45deg);
+    background-color: grey;
+    font-weight: 700;
+    color: azure;
+    cursor: pointer;
+}
